@@ -10,6 +10,7 @@ body{
     background-repeat: no-repeat;
     background-position: right top;
     text-align: center;
+    font-family: "Kumbh Sans";
 }
 .container {
     position: relative;
